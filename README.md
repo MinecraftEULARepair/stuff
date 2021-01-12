@@ -1,7 +1,13 @@
 SBE 1.7.6.2 cracked: 
 output.jar
 
-crashes if renamed, everything but ah data works
+crashes if renamed, ah data DOESN'T WORK because it requires SBEAPI
+
+To set your hypixel apikey: go to appdata/.minecraft/config/SkyblockExtras.cfg
+
+then edit where it says api
+
+It is normal to give you tons of errors when logging in
 
 
 SkyblockAddons 1.6.0 beta 7: 

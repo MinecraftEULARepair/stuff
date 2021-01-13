@@ -25,3 +25,5 @@ http://java-decompiler.github.io/
 SBE cracked by: not me
 
 Purpose: Repair the EULA people like AlphaElite and Biscuit broke
+
+IF YOU THINK THIS IS A SESSION LOGGER OR SIMILAR ITS PERSONALLY YOUR PROBLEM THAT YOU ARENT GETTING SBE CRACKED
